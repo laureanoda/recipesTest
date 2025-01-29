@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "FC70CF3E-C2DD-45D1-B2A6-5267B802EECB",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:FetchMobileAssignment.xcodeproj",
+      "identifier" : "B62FEB252D43F39A0073A13E",
+      "name" : "FetchMobileAssignment"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:FetchMobileAssignment.xcodeproj",
+        "identifier" : "B62FEB362D43F39C0073A13E",
+        "name" : "FetchMobileAssignmentTests"
+      }
+    }
+  ],
+  "version" : 1
+}
